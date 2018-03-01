@@ -1,0 +1,8 @@
+CODEOWNERS
+__MACOSX/
+__pycache__/
+dogImages/
+lfw/
+bottleneck_features/
+
+
